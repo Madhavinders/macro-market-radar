@@ -110,7 +110,7 @@ npm install
 
 ### Configuration
 
-Open `src/marketData.ts` and replace the keys at the top of the file:
+Open `src/App.tsx` and replace the keys at the top of the file under the head of marketData.ts:
 
 ```ts
 const RAPIDAPI_KEY      = 'your_rapidapi_key_here';
